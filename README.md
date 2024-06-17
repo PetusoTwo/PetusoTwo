@@ -29,7 +29,7 @@ I am a software developer with experience in web and mobile technologies. Passio
 <!-----------------------------------Social media ----------------------------------------------------------------------->
 
 <p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+    <br/><br/><a href="https://www.linkedin.com/in/:3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://www.instagram.com/petuso_two/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
     
 <p align="center"><a href="https://t.me/petusotwo" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" /></a>
