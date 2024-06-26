@@ -35,5 +35,5 @@ I am a software developer with experience in web and mobile technologies. Passio
 <p align="center"><a href="https://t.me/petusotwo" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" /></a>
 <!---------------------------------------------------------------------------------------------------------->
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/PetusoTwo/output/github-contribution-grid-snake.svg)
 <h2></h2>
