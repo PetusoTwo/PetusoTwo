@@ -2,10 +2,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+from+Perú;Software+Developer)
 <h1></h1>
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" style="margin-right: 20px;">
-  <p>
+  <p style="margin-right: 20px;">
     I am a software developer with experience in web and mobile technologies. Passionate about learning new technologies and solving complex problems. I work with languages such as JavaScript, React, Node.js, and have skills in HTML, CSS, and Git. I love collaborating on open-source projects and contributing to the developer community.
   </p>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px">
 </div>
 
 
