@@ -1,14 +1,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+from+Perú;Software+Developer)
 <h1></h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
-<p align="left" margin="20px"> 
+<p align="left" margin="20px" padding=30px> 
   I am a software developer with experience in web and mobile technologies. Passionate about learning new technologies and solving complex problems. I work with languages such as JavaScript, React, Node.js, and have skills in HTML, CSS, and Git. I love collaborating on open-source projects and contributing to the developer community.
 </p>
 
 
-<h1></h1>
 <h3 align="center">Contribuciones</h3>
 <p align="center">
 <img width="740em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetusoTwo&theme=github_dark" />
