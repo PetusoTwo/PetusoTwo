@@ -8,17 +8,6 @@
   I am a software developer with experience in web and mobile technologies. Passionate about learning new technologies and solving complex problems. I work with languages such as JavaScript, React, Node.js, and have skills in HTML, CSS, and Git. I love collaborating on open-source projects and contributing to the developer community.
 </p>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
 <p align="left">
   <a href="#" title="Gmail">
