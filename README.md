@@ -8,7 +8,7 @@
 </p>
 
 
-<h3 align="center">Contribuciones</h3>
+<h3 align="center" padding-top="30px">Contribuciones</h3>
 <p align="center">
 <img width="740em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetusoTwo&theme=github_dark" />
 </p>
