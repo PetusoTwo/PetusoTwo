@@ -4,9 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"; justify-content:center; display:flex;> 
-  I am a software developer with experience in web and mobile technologies. Passionate about learning new technologies and solving complex problems. I work with languages such as JavaScript, React, Node.js, and have skills in HTML, CSS, and Git. I love collaborating on open-source projects and contributing to the developer community.
-</p>
+<div style="display: flex; justify-content: center;">
+  <p align="left" style="max-width: 600px; text-align: center;">
+    I am a software developer with experience in web and mobile technologies. Passionate about learning new technologies and solving complex problems. I work with languages such as JavaScript, React, Node.js, and have skills in HTML, CSS, and Git. I love collaborating on open-source projects and contributing to the developer community.
+  </p>
+</div>
 
 
 <h1></h1>
