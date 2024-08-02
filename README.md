@@ -1,5 +1,5 @@
 <div>
-  [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Ali%20Badiee&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Programmer%20/%20A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
+  [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Two%20Petuso&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Programmer%20/%20A%20Technology%20Lover&descAlignY=57&descAlign=63)]()
 </div>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+from+Perú;Software+Developer)
 <h1></h1>
