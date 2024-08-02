@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- Imagen en movimiento (header) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=%20Fabian&fontSize=120&animation=twinkling&fontAlignY=43&desc=A Simple%20Programmer%20/%20A%20%20&descAlignY=57&descAlign=63" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=%20Fabian&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Programmer%20/%20A%20%20&descAlignY=57&descAlign=63" alt="header" />
 </div>
 
 <!-- Información sobre el desarrollador -->
