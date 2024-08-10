@@ -39,8 +39,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" title="Java" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="48" title="Angular" />
-
-
 </p>
 
 <!-- Redes sociales -->
