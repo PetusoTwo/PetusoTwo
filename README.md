@@ -49,7 +49,7 @@
 </p>
 
 
-<a href="https://github.com/PetusoTwo">
+<a align="center" href="https://github.com/PetusoTwo">
   <img src="https://komarev.com/ghpvc/?username=PetusoTwo&style=flat-square" alt="Profile views counter" />
 </a>
 
