@@ -48,3 +48,8 @@
   <a href="https://t.me/petusotwo" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" /></a>
 </p>
 
+
+<a href="https://github.com/PetusoTwo">
+  <img src="https://komarev.com/ghpvc/?username=PetusoTwo&style=flat-square" alt="Profile views counter" />
+</a>
+
