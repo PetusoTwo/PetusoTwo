@@ -7,10 +7,7 @@
 
 
 
-<!-- Información sobre el desarrollador -->
-<p align="left" style="margin: 20px; padding: 30px;"> 
-  I am a software developer with experience in web and mobile technologies. Passionate about learning new technologies and solving complex problems. I work with languages such as JavaScript, React, Node.js, and have skills in HTML, CSS, and Git. I love collaborating on open-source projects and contributing to the developer community.
-</p>
+
 
 <!-- Contribuciones -->
 <h3 align="center" style="padding-top: 30px;">Contribuciones</h3>
