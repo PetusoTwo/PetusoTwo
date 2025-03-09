@@ -5,10 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+from+Perú;Software+Developer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <!-- Imagen en movimiento (header) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=%20Fabian&fontSize=120&animation=twinkling&fontAlignY=43&desc=A%20Programmer%20%20%20%20&descAlignY=57&descAlign=63" alt="header" />
-</div>
+
 
 <!-- Información sobre el desarrollador -->
 <p align="left" style="margin: 20px; padding: 30px;"> 
