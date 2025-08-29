@@ -7,8 +7,8 @@
 ```java
 public class Desarrollador {
     private String nombre = "Pedro";
-    private String especialidad = "Next.js, React, TypeScript, Tailwind CSS, Python, PHP";
-    private String[] intereses = {"Machine Learning", "Análisis de Datos", "NLP", "IA"};
+    private String especialidad = "React, Tailwind CSS, Python, PHP";
+    private String[] intereses = {"Machine Learning", "Análisis de Datos", "NLP", "IA", "TypeScript"};
     
     public void mostrarPerfil() {
         System.out.println("🚀 " + nombre + " - Especialista en " + especialidad);
